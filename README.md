@@ -59,3 +59,11 @@ QC:
 -	Covariates: age, logBMI, time of blood sampling and genetic PC 
 -	Chromosome X with total X-inactivation
 -	SNP filtering: MAF >0.01, machr2 >0.8
+
+## Scripts so far
+
+1) Prepare data of LIFE-Adult study
+2) Prepare data of LIFE-Heart study
+3) Check hormonal distribution (histograms) and run GWAS
+4) Check GWAS outputs (QQ-Plots, Manhattan-Plots, SNP numbers)
+5) Check hormonal distribution over time (boxplots)
